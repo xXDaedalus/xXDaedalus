@@ -1,14 +1,13 @@
-## Hi there 👋
-Welcom on my profile
--
+## Hi there and Welcome on my profile 
 ## About me:
-- I'm a comutersience Student from Germany.
-//..
--
+- I'm a Computersience Student from Germany.
+- //...
+
+
 ## Current:
 - I'm currently learning Java, C, C++.
 - I'm currently Working on my own Website.
--
+
 
 
 <!--
