@@ -1,4 +1,15 @@
 ## Hi there 👋
+Welcom on my profile
+-
+## About me:
+I'm a comutersience Student from Germany.
+//..
+-
+## Current:
+- I'm currently learning Java, C, C++.
+- I'm currently Working on my own Website.
+-
+
 
 <!--
 **xXDaedalus/xXDaedalus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
