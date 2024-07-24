@@ -2,7 +2,7 @@
 Welcom on my profile
 -
 ## About me:
-I'm a comutersience Student from Germany.
+- I'm a comutersience Student from Germany.
 //..
 -
 ## Current:
